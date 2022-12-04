@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\plugins",
+    "\\src\\queue",
+    "\\src\\typings",
+    "\\src\\utils",
+    "\\src\\utils\\fs",
+    "\\views"
+  ],
+  "SelectedNode": "\\src\\server.ts",
+  "PreviewInSolutionExplorer": false
+}

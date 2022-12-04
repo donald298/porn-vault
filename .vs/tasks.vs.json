@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "appliesTo": "/",
+      "taskLabel": "task-porn-vault",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-porn-vault",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
